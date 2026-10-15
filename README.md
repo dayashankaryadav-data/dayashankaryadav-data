@@ -1,37 +1,18 @@
-# Hi, I'm Daya 👋
+# Daya Shankar Yadav
 
-**MSc Business Analytics student @ Atlantic Technological University, Galway 🇮🇪**
+I'm doing an MSc in Business Analytics at Atlantic Technological University in Galway (2026-2027).
 
-Interested in business systems, supply chain and operations analytics — turning messy data into clear decisions.
+Before the MSc I worked as a Systems & Data Analyst intern at Softgyan Technologies in Faridabad. Most of my work there was writing MySQL queries and small Python scripts to process data and automate a few workflows. Before that I led the SEO team at Thaver Tech, where I looked at traffic and keyword data every day and reported results to clients.
 
-### 🔧 Tools I work with
-SQL (MySQL) · Python (pandas, NumPy) · Power BI · Excel
+I also ran a Facebook page that grew from zero to over 400K followers. Checking reach and watch time to decide what to post next is what got me interested in data in the first place.
 
-### 📌 Right now
-- Preparing for **Microsoft PL-300 (Power BI Data Analyst)**
-- Building portfolio projects with real data — coming soon to this profile
-- Class Representative for my MSc cohort
+Right now I'm:
+- studying for the Microsoft PL-300 (Power BI) exam
+- practising SQL and Python
+- working on my first projects, which I'll add here
 
-### 💼 Background
-- **Systems & Data Analyst Intern**, Softgyan Technologies — MySQL queries, Python data-processing and workflow-automation scripts
-- **SEO Executive**, Thaver Tech — led the SEO team, analysed traffic and keyword data, reported results to clients
-- Grew a social media page from **0 to 400K+ followers**, using engagement data to plan content
+Tools: SQL (MySQL), Python, Power BI, Excel
 
-### 🤝 Connect
-[LinkedIn](https://www.linkedin.com/in/dayashankar-yadav) · Open to graduate roles and internships in data and business systems analysis across Ireland
-## Hi there 👋
+I'm looking for graduate roles and internships in data or business systems analysis in Ireland.
 
-<!--
-**dayashankaryadav-data/dayashankaryadav-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: [linkedin.com/in/dayashankar-yadav](https://www.linkedin.com/in/dayashankar-yadav)
